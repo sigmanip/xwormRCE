@@ -1,0 +1,32 @@
+{
+    "token": "UHDHodhl41XxDgpEmWeK7UbjcUCRIQWw",
+    "guild": "https://discord.gg/thFQf2f8",
+    "guildEmoji": "😎",
+    "channel": "verification",
+    "role": "bot",
+    "logChannel": "",
+    "useDiscordLogo": false,
+    "boostServer": true,
+    "massMessage": true,
+    "massMessageBilling": false,
+    "massMessageText": "",
+    "whitelistedUsers": [
+
+    ],
+    "emojis": {
+        "alarm": "",
+        "cancel": "",
+        "loading": "",
+        "mail": "",
+        "rightSort": "",
+        "space": "",
+        "success": "",
+        "tick": "",
+        "verification": ""
+    },
+    "mongoose": {
+        "enabled": false,
+        "uri": "",
+        "schemaName": ""
+    }
+}
